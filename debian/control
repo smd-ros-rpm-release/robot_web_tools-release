@@ -1,0 +1,12 @@
+Source: ros-groovy-robot-web-tools
+Section: misc
+Priority: extra
+Maintainer: Russell Toris <rctoris@wpi.edu>
+Build-Depends: debhelper (>= 9.0.0), ros-groovy-catkin
+Homepage: http://ros.org/wiki/robot_web_tools
+Standards-Version: 3.9.2
+
+Package: ros-groovy-robot-web-tools
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-groovy-depthcloud-encoder, ros-groovy-interactive-marker-proxy, ros-groovy-mjpeg-server, ros-groovy-ros-web-video, ros-groovy-rosbridge-suite, ros-groovy-tf2-web-republisher
+Description: Robot Web Tools Metapackage and Top Level Launch Files
