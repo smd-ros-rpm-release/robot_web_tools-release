@@ -1,0 +1,9 @@
+ros-groovy-robot-web-tools (0.0.1-0precise) precise; urgency=high
+
+  * launch files added
+  * initial READMEs and such
+  * Contributors: Russell Toris
+
+ -- Russell Toris <rctoris@wpi.edu>  Wed, 20 Aug 2014 04:00:00 -0000
+
+
